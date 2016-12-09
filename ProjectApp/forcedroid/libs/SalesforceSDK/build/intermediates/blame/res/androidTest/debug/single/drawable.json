@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sf__toolbar_background.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\sf__toolbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_selected_negative.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_selected_negative.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sf__progress_spinner.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\sf__progress_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_positive.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_positive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_selected.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sf__header_bg.png",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\sf__header_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_negative.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_negative.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_bg_negative.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_bg_negative.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_bg.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_bg.xml"
+    }
+]

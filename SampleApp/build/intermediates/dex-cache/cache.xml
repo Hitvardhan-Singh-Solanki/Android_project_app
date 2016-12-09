@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hitvardhan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_af5fc88ccd46626dbb2abcaaf5af3e0357d3ac00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hitvardhan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_de9b02e12df4894e97e606c8df33cbc3c9151a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="151ff09ad6f24ae26363745a284ec98351b46d68">
+        <dex dex="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8bb410ef4a5c7ca4337cde96879985919fc7312c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c23804d7790190823509128c1d99fa2ac6697bb7">
+        <dex dex="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9000cccc083a6ead9bb2d42bfabdcb6fbc121d58\classes.dex" />
+    </item>
+
+</items>

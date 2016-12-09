@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/bhariharan/Documents/Github_Projects/My_Forks/SalesforceMobileSDK-Android/native/TemplateApp/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/bhariharan/Documents/Github_Projects/My_Forks/SalesforceMobileSDK-Android/native/test/TemplateAppTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 80,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/bhariharan/Documents/Github_Projects/My_Forks/SalesforceMobileSDK-Android/native/test/TemplateAppTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 80,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 46,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/Users/bhariharan/Documents/Github_Projects/My_Forks/SalesforceMobileSDK-Android/native/test/TemplateAppTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            }
+        ]
+    }
+]

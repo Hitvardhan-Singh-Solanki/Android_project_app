@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:background="#fffdfd"
+	android:id="@+id/root">
+	<include layout="@layout/header" />
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+
+			android:text="Name"
+			android:textSize="20dp"
+			android:id="@+id/TextNameOfUser"/>
+
+		<Space
+			android:layout_width="40dp"
+			android:layout_height="wrap_content" />
+		<!--<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Email"
+			android:textStyle="bold"
+			android:textSize="20dp"
+			android:id="@+id/EmailOfCurrent"
+			android:layout_gravity="right"/>-->
+	</LinearLayout>
+
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="32dp"
+		android:background="#6d97ea"
+		android:textAllCaps="true"
+		android:textColor="#fff"
+		android:text="Today's TASK"
+		android:textStyle="bold"
+		android:padding="10dp"/>
+	<!--<ExpandableListView
+		android:id="@+id/expandableListView"
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+		android:divider="@android:color/darker_gray"
+		android:dividerHeight="0.5dp"
+		android:layout_weight="1"/>-->
+	<ListView
+		android:id="@+id/list"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:layout_weight="1"
+		android:background="#9bbcbc">
+
+	</ListView>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:paddingBottom="20dp"
+		android:orientation="horizontal"
+		android:paddingTop="30dp"
+		android:padding="10dp">
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Get Details of list"
+			android:background="@drawable/button_bg"
+			android:onClick="getDetailsofTask"
+			android:layout_gravity="center"
+			android:textStyle="bold"
+			android:textAllCaps="true"
+			android:textColor="#fff"
+			android:padding="10sp"
+			/>
+		<Space
+			android:layout_width="50dp"
+			android:layout_height="wrap_content" />
+		<Button android:id="@+id/logout_button" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_alignParentRight="true"
+			android:layout_centerVertical="true" android:onClick="onLogoutClick"
+			android:text="@string/logout_button"
+			android:background="@drawable/button_bg_negative"
+			android:layout_gravity="center|bottom"
+			android:textColor="#fff"
+			android:textAllCaps="true"/>
+	</LinearLayout>
+</LinearLayout>

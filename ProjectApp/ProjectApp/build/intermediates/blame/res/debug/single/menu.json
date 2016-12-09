@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\menu\\sf__clear_custom_url.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\menu\\sf__clear_custom_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\menu\\sf__login.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\menu\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\menu\\sf__login.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\menu\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\menu\\sf__clear_custom_url.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\menu\\sf__clear_custom_url.xml"
+    }
+]

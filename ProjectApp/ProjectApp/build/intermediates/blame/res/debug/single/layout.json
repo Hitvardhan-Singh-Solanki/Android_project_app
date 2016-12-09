@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__fingerprint_dialog.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__fingerprint_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__manage_space.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__manage_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__login.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__manage_space.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__manage_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\splash_activity.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__account_switcher.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__account_switcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__custom_server_url.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__custom_server_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__login.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__fingerprint_dialog.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__fingerprint_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker_list.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__passcode.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__passcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__passcode.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__passcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__custom_server_url.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__custom_server_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__account_switcher.xml",
+        "source": "C:\\Users\\bhariharan\\Documents\\Github_Projects\\My_Forks\\SalesforceMobileSDK-Android\\native\\TemplateApp\\build\\intermediates\\exploded-aar\\com.salesforce.androidsdk\\SalesforceSDK\\unspecified\\res\\layout\\sf__account_switcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker_list.xml",
+        "source": "C:\\Users\\Hitvardhan\\NativeSalesforceApp\\ProjectApp\\ProjectApp\\build\\intermediates\\exploded-aar\\ProjectApp.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker_list.xml"
+    }
+]

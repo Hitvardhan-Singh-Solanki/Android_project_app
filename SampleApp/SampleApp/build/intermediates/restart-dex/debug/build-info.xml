@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="109245603965863"
+    token="1363862247819423122"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="181" />
+    <task
+        name="instant-run-dex"
+        duration="509" />
+    <task
+        name="instant-run-transform"
+        duration="128" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="107982263639988"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\outputs\apk\SampleApp-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="108135427042931"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="108312406979358"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="108333248763283"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108333248763283\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108359600553763"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108359600553763\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108376586761774"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108376586761774\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108387941463842"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108387941463842\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108404345006075"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108404345006075\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108427467896641"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108427467896641\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108442146182854"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108442146182854\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108459036154226"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\builds\debug\108459036154226\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="109245603965863"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Hitvardhan\NativeSalesforceApp\SampleApp\SampleApp\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
